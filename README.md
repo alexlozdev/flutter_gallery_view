@@ -1,5 +1,6 @@
 # Image Gallery View
 A new plugin to show the list of network image and show it in a gallery view with hero animation
+Improved loading of network image from gallery_view 0.0.4
 
 ## Getting Started
     Feature
